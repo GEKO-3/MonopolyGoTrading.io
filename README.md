@@ -1,2 +1,2 @@
-# MonopolyGoTrading.io
+# MonopolyGoTrading.github.io
 discord.gg/monopolygo Staff Resources
